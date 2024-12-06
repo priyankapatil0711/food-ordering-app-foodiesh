@@ -1,0 +1,39 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android Studio specific
+.idea/
+.gradle/
+build/
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Log files
+*.log
+
+# Generated files
+*.apk
+*.ap_
+
+# Ignore dependencies
+*.jar
+*.aar
+
+# Ignore IDE files (Android Studio, IntelliJ)
+*.swp
+*.swo
+
