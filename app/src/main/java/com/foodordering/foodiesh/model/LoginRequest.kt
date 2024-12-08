@@ -1,6 +1,6 @@
 package com.foodordering.foodiesh.model
 
 data class LoginRequest(
-    val email: String,
+    val username: String,
     val password: String
 )
